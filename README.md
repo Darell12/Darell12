@@ -1,27 +1,20 @@
-<h1 align="center">Hi I´m Darell </h1>
----
+<h1 align="center">Hi 👋 I'm Darell </h1>
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📫 How to reach me **darellorladoe@gmail.com**
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
-
-- 📫 How to reach me **carlos.develops@gmail.com**
-
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌱 I’m currently learning **Python, Angular.Js, Next.Js and C#**
 
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXPRESS" alt="EXPRESS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
