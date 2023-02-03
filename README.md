@@ -1,4 +1,4 @@
-<h1>Hi I´m Darell </h1>
+<h1 align="center">Hi I´m Darell </h1>
 ---
 
 ### 👨‍💻 About Me :
